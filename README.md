@@ -1,2 +1,4 @@
 # pws
-сайт компании PowerSystems, Дизайн, исполнение, "одностраничный" сайт на JavaScript + jQuery
+сайт компании PowerSystems, 
+<br>Дизайн, исполнение, 
+<br>"одностраничный" сайт на JavaScript + jQuery
